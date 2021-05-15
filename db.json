@@ -1,0 +1,47 @@
+{
+  "logs": [
+    {
+      "message": "new system sdesign 0047",
+      "tech": "sam smith",
+      "attention": true,
+      "date": "2021-05-15T12:01:33.495Z",
+      "id": 1
+    },
+    {
+      "message": "sysrem error 0048wd",
+      "tech": "sagar ko",
+      "attention": false,
+      "date": "2021-05-15T12:02:18.119Z",
+      "id": 2
+    },
+    {
+      "message": "dedrfr",
+      "attention": false,
+      "tech": "john smith",
+      "date": "2021-05-15T08:39:34.877Z",
+      "id": 3
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "firstName": "nora",
+      "lastName": "will",
+      "id": 2
+    },
+    {
+      "firstName": "de",
+      "lastName": "frfr",
+      "id": 3
+    },
+    {
+      "firstName": "sagar",
+      "lastName": "ko",
+      "id": 4
+    }
+  ]
+}
